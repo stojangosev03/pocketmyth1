@@ -1,0 +1,258 @@
+{
+  "Funkenstoß": {
+    "name": "Funkenstoß",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Funkenstoß trifft das Ziel."
+  },
+  "Wellenhieb": {
+    "name": "Wellenhieb",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Wellenhieb trifft das Ziel."
+  },
+  "Sonnenkugel": {
+    "name": "Sonnenkugel",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Sonnenkugel trifft das Ziel."
+  },
+  "Runenschnitt": {
+    "name": "Runenschnitt",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Runenschnitt trifft das Ziel."
+  },
+  "Frostbiss": {
+    "name": "Frostbiss",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Frostbiss trifft das Ziel."
+  },
+  "Schattenklage": {
+    "name": "Schattenklage",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Schattenklage trifft das Ziel."
+  },
+  "Legionärsschlag": {
+    "name": "Legionärsschlag",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Legionärsschlag trifft das Ziel."
+  },
+  "Sirenengesang": {
+    "name": "Sirenengesang",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Sirenengesang trifft das Ziel."
+  },
+  "Skarabäuspanzer": {
+    "name": "Skarabäuspanzer",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Skarabäuspanzer trifft das Ziel."
+  },
+  "Weltenbund": {
+    "name": "Weltenbund",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Weltenbund trifft das Ziel."
+  },
+  "Steinblick": {
+    "name": "Steinblick",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Steinblick trifft das Ziel."
+  },
+  "Giftblick": {
+    "name": "Giftblick",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Giftblick trifft das Ziel."
+  },
+  "Marmorschild": {
+    "name": "Marmorschild",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Marmorschild trifft das Ziel."
+  },
+  "Flügelschlag": {
+    "name": "Flügelschlag",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Flügelschlag trifft das Ziel."
+  },
+  "Adlersturz": {
+    "name": "Adlersturz",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Adlersturz trifft das Ziel."
+  },
+  "Imperiumsruf": {
+    "name": "Imperiumsruf",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Imperiumsruf trifft das Ziel."
+  },
+  "Speerwurf": {
+    "name": "Speerwurf",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Speerwurf trifft das Ziel."
+  },
+  "Kriegsheuler": {
+    "name": "Kriegsheuler",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Kriegsheuler trifft das Ziel."
+  },
+  "Rudelangriff": {
+    "name": "Rudelangriff",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Rudelangriff trifft das Ziel."
+  },
+  "Sonnenrichter": {
+    "name": "Sonnenrichter",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Sonnenrichter trifft das Ziel."
+  },
+  "Dünenbiss": {
+    "name": "Dünenbiss",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Dünenbiss trifft das Ziel."
+  },
+  "Duatstoß": {
+    "name": "Duatstoß",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Duatstoß trifft das Ziel."
+  },
+  "Seelenurteil": {
+    "name": "Seelenurteil",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Seelenurteil trifft das Ziel."
+  },
+  "Pyramidensiegel": {
+    "name": "Pyramidensiegel",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Pyramidensiegel trifft das Ziel."
+  },
+  "Ascheflug": {
+    "name": "Ascheflug",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Ascheflug trifft das Ziel."
+  },
+  "Morgenbrand": {
+    "name": "Morgenbrand",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Morgenbrand trifft das Ziel."
+  },
+  "Eisfang": {
+    "name": "Eisfang",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Eisfang trifft das Ziel."
+  },
+  "Ragnarheuler": {
+    "name": "Ragnarheuler",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Ragnarheuler trifft das Ziel."
+  },
+  "Gedankenhieb": {
+    "name": "Gedankenhieb",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Gedankenhieb trifft das Ziel."
+  },
+  "Grabhauch": {
+    "name": "Grabhauch",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Grabhauch trifft das Ziel."
+  },
+  "Winterklaue": {
+    "name": "Winterklaue",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Winterklaue trifft das Ziel."
+  },
+  "Gezeitenklinge": {
+    "name": "Gezeitenklinge",
+    "type": "Neutral",
+    "power": 50,
+    "accuracy": 95,
+    "effect": "none",
+    "description": "Gezeitenklinge trifft das Ziel."
+  }
+}
