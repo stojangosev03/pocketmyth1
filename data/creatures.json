@@ -1,0 +1,896 @@
+{
+  "Sirivelle": {
+    "name": "Sirivelle",
+    "mythology": "Mythara",
+    "type1": "Wasser",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Sirenengesang",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Sirivelle aus Mythara."
+  },
+  "Sirenelle": {
+    "name": "Sirenelle",
+    "mythology": "Mythara",
+    "type1": "Wasser",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Wellenhieb",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Sirenelle aus Mythara."
+  },
+  "Melodrassa": {
+    "name": "Melodrassa",
+    "mythology": "Mythara",
+    "type1": "Wasser",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Schattenklage",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Melodrassa aus Mythara."
+  },
+  "Minotak": {
+    "name": "Minotak",
+    "mythology": "Mythara",
+    "type1": "Erde",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Runenschnitt",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Minotak aus Mythara."
+  },
+  "Tauragor": {
+    "name": "Tauragor",
+    "mythology": "Mythara",
+    "type1": "Erde",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Legionärsschlag",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Tauragor aus Mythara."
+  },
+  "Gorglim": {
+    "name": "Gorglim",
+    "mythology": "Mythara",
+    "type1": "Schatten",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Steinblick",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Gorglim aus Mythara."
+  },
+  "Medrissa": {
+    "name": "Medrissa",
+    "mythology": "Mythara",
+    "type1": "Schatten",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Giftblick",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Medrissa aus Mythara."
+  },
+  "Gorgonar": {
+    "name": "Gorgonar",
+    "mythology": "Mythara",
+    "type1": "Schatten",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Marmorschild",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Gorgonar aus Mythara."
+  },
+  "Flammulus": {
+    "name": "Flammulus",
+    "mythology": "Mythara",
+    "type1": "Flamme",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Funkenstoß",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {
+      "level": 16,
+      "to": "Ignicor"
+    },
+    "rarity": "common",
+    "lore": "Flammulus aus Mythara."
+  },
+  "Ignicor": {
+    "name": "Ignicor",
+    "mythology": "Mythara",
+    "type1": "Flamme",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Legionärsschlag",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {
+      "level": 32,
+      "to": "Vulcarion"
+    },
+    "rarity": "common",
+    "lore": "Ignicor aus Mythara."
+  },
+  "Vulcarion": {
+    "name": "Vulcarion",
+    "mythology": "Mythara",
+    "type1": "Flamme",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Sonnenkugel",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Vulcarion aus Mythara."
+  },
+  "Griffio": {
+    "name": "Griffio",
+    "mythology": "Mythara",
+    "type1": "Luft",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Flügelschlag",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Griffio aus Mythara."
+  },
+  "Aquilgriff": {
+    "name": "Aquilgriff",
+    "mythology": "Mythara",
+    "type1": "Luft",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Adlersturz",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Aquilgriff aus Mythara."
+  },
+  "Imperigriff": {
+    "name": "Imperigriff",
+    "mythology": "Mythara",
+    "type1": "Luft",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Imperiumsruf",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Imperigriff aus Mythara."
+  },
+  "Larino": {
+    "name": "Larino",
+    "mythology": "Mythara",
+    "type1": "Erde",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Speerwurf",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Larino aus Mythara."
+  },
+  "Martwolf": {
+    "name": "Martwolf",
+    "mythology": "Mythara",
+    "type1": "Flamme",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Kriegsheuler",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Martwolf aus Mythara."
+  },
+  "Bellupus": {
+    "name": "Bellupus",
+    "mythology": "Mythara",
+    "type1": "Erde",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Rudelangriff",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Bellupus aus Mythara."
+  },
+  "Scarabun": {
+    "name": "Scarabun",
+    "mythology": "Mythara",
+    "type1": "Sonne",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Skarabäuspanzer",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {
+      "level": 16,
+      "to": "Khepral"
+    },
+    "rarity": "common",
+    "lore": "Scarabun aus Mythara."
+  },
+  "Khepral": {
+    "name": "Khepral",
+    "mythology": "Mythara",
+    "type1": "Sonne",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Sonnenkugel",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {
+      "level": 32,
+      "to": "Solkhepra"
+    },
+    "rarity": "common",
+    "lore": "Khepral aus Mythara."
+  },
+  "Solkhepra": {
+    "name": "Solkhepra",
+    "mythology": "Mythara",
+    "type1": "Sonne",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Sonnenrichter",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Solkhepra aus Mythara."
+  },
+  "Anubik": {
+    "name": "Anubik",
+    "mythology": "Mythara",
+    "type1": "Schatten",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Dünenbiss",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Anubik aus Mythara."
+  },
+  "Duatjak": {
+    "name": "Duatjak",
+    "mythology": "Mythara",
+    "type1": "Schatten",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Duatstoß",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Duatjak aus Mythara."
+  },
+  "Anubareth": {
+    "name": "Anubareth",
+    "mythology": "Mythara",
+    "type1": "Schatten",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Seelenurteil",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Anubareth aus Mythara."
+  },
+  "Sphira": {
+    "name": "Sphira",
+    "mythology": "Mythara",
+    "type1": "Rune",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Pyramidensiegel",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Sphira aus Mythara."
+  },
+  "Bennubird": {
+    "name": "Bennubird",
+    "mythology": "Mythara",
+    "type1": "Sonne",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Ascheflug",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Bennubird aus Mythara."
+  },
+  "Raenix": {
+    "name": "Raenix",
+    "mythology": "Mythara",
+    "type1": "Sonne",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Morgenbrand",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Raenix aus Mythara."
+  },
+  "Fenrook": {
+    "name": "Fenrook",
+    "mythology": "Mythara",
+    "type1": "Frost",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Frostbiss",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Fenrook aus Mythara."
+  },
+  "Fenskoll": {
+    "name": "Fenskoll",
+    "mythology": "Mythara",
+    "type1": "Frost",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Eisfang",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Fenskoll aus Mythara."
+  },
+  "Fenragnar": {
+    "name": "Fenragnar",
+    "mythology": "Mythara",
+    "type1": "Frost",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Ragnarheuler",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Fenragnar aus Mythara."
+  },
+  "Runrav": {
+    "name": "Runrav",
+    "mythology": "Mythara",
+    "type1": "Rune",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Runenschnitt",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Runrav aus Mythara."
+  },
+  "Muninkor": {
+    "name": "Muninkor",
+    "mythology": "Mythara",
+    "type1": "Rune",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Gedankenhieb",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Muninkor aus Mythara."
+  },
+  "Draugrim": {
+    "name": "Draugrim",
+    "mythology": "Mythara",
+    "type1": "Frost",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Grabhauch",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Draugrim aus Mythara."
+  },
+  "Frostdraug": {
+    "name": "Frostdraug",
+    "mythology": "Mythara",
+    "type1": "Frost",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Winterklaue",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Frostdraug aus Mythara."
+  },
+  "Nymbri": {
+    "name": "Nymbri",
+    "mythology": "Mythara",
+    "type1": "Wasser",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Wellenhieb",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {
+      "level": 16,
+      "to": "Nerevra"
+    },
+    "rarity": "common",
+    "lore": "Nymbri aus Mythara."
+  },
+  "Nerevra": {
+    "name": "Nerevra",
+    "mythology": "Mythara",
+    "type1": "Wasser",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Gezeitenklinge",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {
+      "level": 32,
+      "to": "Thalassira"
+    },
+    "rarity": "common",
+    "lore": "Nerevra aus Mythara."
+  },
+  "Thalassira": {
+    "name": "Thalassira",
+    "mythology": "Mythara",
+    "type1": "Wasser",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Weltenbund",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Thalassira aus Mythara."
+  },
+  "Eidravon": {
+    "name": "Eidravon",
+    "mythology": "Mythara",
+    "type1": "Rune",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Weltenbund",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "legendary",
+    "lore": "Eidravon aus Mythara.",
+    "ability": "Eid der Vier Reiche",
+    "mythenruf": "Weltenbund"
+  },
+  "Hippora": {
+    "name": "Hippora",
+    "mythology": "Griechisch",
+    "type1": "Wasser",
+    "type2": "",
+    "stats": {
+      "hp": 30,
+      "attack": 12,
+      "defense": 10,
+      "sp_attack": 12,
+      "sp_defense": 10,
+      "speed": 10
+    },
+    "moves": [
+      "Wellenhieb",
+      "Runenschnitt",
+      "Frostbiss",
+      "Sonnenkugel"
+    ],
+    "evolution": {},
+    "rarity": "common",
+    "lore": "Seepferdkriegerin aus Aigaion."
+  }
+}

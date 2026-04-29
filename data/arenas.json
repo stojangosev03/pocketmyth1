@@ -1,0 +1,24 @@
+{
+  "tempel_der_wellen": {
+    "name": "Tempel der Wellen",
+    "leader": "Kleia",
+    "region": "Aigaion-Archipel",
+    "team": [
+      "Sirivelle",
+      "Hippora",
+      "Minotak"
+    ],
+    "reward": "Wellenzeichen"
+  },
+  "champion": {
+    "name": "Maelor, der Eidbrecher",
+    "team": [
+      "Imperigriff",
+      "Anubareth",
+      "Fenragnar",
+      "Melodrassa",
+      "Solkhepra",
+      "Eidravon-Schattenform"
+    ]
+  }
+}
